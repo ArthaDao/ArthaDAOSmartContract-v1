@@ -1,2 +1,3 @@
-# TokenSmartContract
-These contain the current used smart contract for the $ARTHA token
+# TokenSmartContract - Old 
+These contain the smart contract that was used at launch on 21st Setpember 2023 for the $ARTHA token on BSC Network.
+$ARTHA was migrated to the Ethereum blockchain, with a new contract on 28th October 2023. 
